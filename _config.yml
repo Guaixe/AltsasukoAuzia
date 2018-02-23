@@ -1,0 +1,14 @@
+# General
+title: Altsasuko auzia | Guaixe
+description: Guaixeren aurkezpena
+author:
+    name: Guaixe
+    email: maketazioa@guaixe.eus
+timezone: "Europe/Paris"
+
+
+# Jekyll
+exclude: [".rvmrc", ".rbenv-version", "Rakefile", "vendor"]
+excerpt_separator: "\n"
+markdown: kramdown
+
