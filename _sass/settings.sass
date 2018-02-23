@@ -1,24 +1,66 @@
 $lightgrey: #b3b3b3
 
 @font-face
-  font-family: "Fira"
-  src: url(../fonts/FiraSans/FiraSans-Regular.otf)
+  font-family: "Alegreya Sans SC"
+  src: url(../fonts/alegreyasans/AlegreyaSansSC-Regular.otf)
 
 @font-face
-  font-family: "FiraCon"
-  src: url(../fonts/fira-sans-condensed/firasanscondensed-regular.otf)
+  font-family: "Aller light"
+  src: url(../fonts/Aller/Aller_Lt.ttf)
+@font-face
+  font-family: "Aller light"
+  src: url(../fonts/Aller/Aller_Rg.ttf)
   font-weight: bold
 @font-face
-  font-family: "FiraCon"
-  src: url(../fonts/fira-sans-condensed/firasanscondensed-bold.otf)
+  font-family: "Aller light"
+  src: url(../fonts/Aller/Aller_LtIt.ttf)
+  font-style: italic
+@font-face
+  font-family: "Aller light"
+  src: url(../fonts/Aller/Aller_It.ttf)
   font-weight: bold
+  font-style: italic
 
-$sans: "Fira"
-$con: "FiraCon"
+$sans: "Aller light"
+$sc: "Alegreya Sans SC"
 
 a
+  color: black
   text-decoration: none
 
 *
   box-sizing: border-box
+
+//categories
+$a: #00dcdc
+$b: #f9005c
+$c: #f5c500
+$d: #00b200
+
+.hide
+  display: none !important
+
+.category
+  border-bottom: solid .4rem
+
+.web
+  border-bottom-color: $a
+  color: $a
+.graphic
+  border-bottom-color: $b
+  color: $b
+.multimedia
+  border-bottom-color: $c
+  color: $c
+.diy
+  border-bottom-color: $d
+  color: $d
+
+
+p.date
+  color: #a1a1a1
+  margin-bottom: 0
+  a
+    color: #a1a1a1
+
 
