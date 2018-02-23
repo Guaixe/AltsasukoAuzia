@@ -1,3 +1,0 @@
-*** Tue Feb 21 12:07:48 2017
-usage: lowpoly.py [-h] image
-lowpoly.py: error: unrecognized arguments: -gimp 11 -query 0
