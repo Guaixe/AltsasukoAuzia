@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+
+<article>
+  <h3 class="category {{ page.category }}">{{ page.category }}</h3>
+  <h1>{{ page.title }}</h1>
+  <p class="date"><a href="http://iune.info">{{ page.author }}</a> &#8226; {{ page.date | date: "%Y-%m-%d"  }}</p>
+  <div class="postContent">{{ content }}</div>
+</article>
