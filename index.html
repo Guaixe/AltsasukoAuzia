@@ -2,28 +2,23 @@
 layout: default
 ---
 
-<div id="banner">
-  <img src="/images/experiment.svg" />
-  <div id="bannerText">
-    <h1>Diseinu askeak kultura askearen alde</h1>
-    <p>Éste es mi laboratorio, donde publico mis experimentos. Los experimentos
-    tienen licencia libre, así que cópiame, cámbiame y contribuye! Las fuentes están
-      <a href="https://github.com/iunetrecet/lab">aquí!</a></p>
-    <p>This is my lab, where I publish my experiments. The experiments are free licensed, so you are free to copy, remix and contribute to them! The source is <a href="https://github.com/iunetrecet/lab">here!</a></p>
-  </div>
-</div>
+<section class="timeline">
 
-{% include nav.html %}
-
-<ul class="posts">
   {% for post in site.posts %}
-  <li class="post {{ post.category }}">
-    <a href="{{ post.url }}"><img src="{{ post.thumbnail }}"/></a>
-    <div class="category {{ post.category }}"></div>
-    <p class="date">{{ post.date | date: "%Y-%m-%d"  }}</p>
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  </li>
-  {% endfor %}
-</ul>
+  <div class="timeline-item">
 
-<script src="/js/post_filter.js" type="text/javascript" charset="utf-8"></script>
+    <div class="timeline-img"></div>
+
+    <div class="timeline-content timeline-card js--fadeInRight">
+      <div class="timeline-img-header" style="background-image: url('{{ post.thumbnail }}');">
+      </div>
+      <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
+      <h2>{{ post.title }}</h2>
+      <a class="bnt-more" href="javascript:void(0)">Irakurri</a>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+
+
+<script src="/js/timeline.js" type="text/javascript" charset="utf-8"></script>

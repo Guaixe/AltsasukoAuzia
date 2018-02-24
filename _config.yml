@@ -1,11 +1,9 @@
 # General
-title: iune
-description: Iune Trecet Obeso portfolio
+title: Altsasuko auzia | Guaixe
+description: Guaixeren aurkezpena
 author:
-    name: Iune Trecet Obeso
-    email: contact@iune.info
-    github: iunetrecet
-    flickr: https://flickr.com/photos/iunetrecet/
+    name: Guaixe
+    email: maketazioa@guaixe.eus
 timezone: "Europe/Paris"
 
 
@@ -14,55 +12,3 @@ exclude: [".rvmrc", ".rbenv-version", "Rakefile", "vendor"]
 excerpt_separator: "\n"
 markdown: kramdown
 
-# trans
-t:
-  eu:
-    home: "Diseinu askeak<br/>kultura askearen alde."
-    webdesign: "Web diseinua"
-    blogdesign: "Blog diseinua"
-    shopdesign: "Denda online diseinua"
-    graphicdesign: "diseinu grafikoa"
-    identity: "Identitate korporatiboa"
-    poster: "Karteleria"
-    signal: "Seinaleak eta errotulazioa"
-    book: "Liburuen eta ebooken maketazioa"
-    window: "Erakuslehioen diseinua"
-    merchandising: "Merchandising"
-    multimedia: "multimedia"
-    photo: "Argazkigintza"
-    infography: "Infografiak"
-    presentation: "Aurkezpenak"
-    formation: "aholkularitza eta formakuntza"
-    license: "Lizentzien aholkularitza"
-    freeformation: "Diseinu grafikoa software askean formakuntza"
-    photoformation: "Argazkien ukitzean formakuntza"
-    webformation: "Web diseinuan formakuntza"
-    goproject: "Joan proiektura"
-    program: "Erabiltzen ditudan programak"
-    want: "Diseinuren bat behar al duzu?"
-    write: "idatzi nazazu!"
-  es:
-    home: "Diseños libres<br/>para una cultura libre."
-    webdesign: "Diseño web"
-    blogdesign: "Diseño de blog"
-    shopdesign: "Diseño de tienda online"
-    graphicdesign: "diseño gráfico"
-    identity: "Identidad corporativa"
-    poster: "Cartelería"
-    signal: "Señales y rotulaciones"
-    book: "Maquetación de libros y ebooks"
-    window: "Diseño de escaparates"
-    merchandising: "Merchandising"
-    multimedia: "multimedia"
-    photo: "Fotografía"
-    infography: "Infografías"
-    presentation: "Presentaciones"
-    formation: "asesoría y formación"
-    license: "Asesoría de licencias"
-    freeformation: "Formación de diseño gráfico en software libre"
-    photoformation: "Formación de retoque fotográfico"
-    webformation: "Formación de diseño web"
-    goproject: "Ir al proyecto"
-    program: "Programas que utilizo"
-    want: "¿Necesitas un diseño?"
-    write: "¡Escríbeme!"
