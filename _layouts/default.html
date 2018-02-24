@@ -12,7 +12,7 @@
     <meta name="author" content="{{ site.description.author.name }}" />
     <meta name="viewport" content="width=device-width" />
 
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}images/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css" />
   </head>
 
@@ -21,9 +21,9 @@
     <div id="wrap">
 
       <header>
-        <h1><a href="/"><img alt="Altsasuko auzia" src="/images/altsasukoAuzia.svg" /></a></h1>
+        <h1><a href="/"><img alt="Altsasuko auzia" src="{{ site.baseurl }}/images/altsasukoAuzia.svg" /></a></h1>
         <p>450 : 12 : 23 : 02</p>
-        <img src="/images/guaixe.svg" alt="Guaixe"/>
+        <img src="{{ site.baseurl }}/images/guaixe.svg" alt="Guaixe"/>
       </header>
 
       <main>
@@ -32,9 +32,8 @@
     </div>
 
     <footer>
-      <p>Copy me, remix me</p>
-      <img class="license" src="/images/cc-by-sa.svg" alt="cc-by-sa" />
-      <img class="license" src="/images/gpl.svg" alt="gpl" />
+      <img class="license" src="{{ site.baseurl }}/images/cc-by-sa.svg" alt="cc-by-sa" />
+      <img class="license" src="{{ site.baseurl }}/images/gpl.svg" alt="gpl" />
     </footer>
 
   </body>
