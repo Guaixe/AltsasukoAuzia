@@ -25,6 +25,7 @@ section
 .timeline-item
   width: 100%
   margin-bottom: 70px
+  @media screen and (max-width: 768px)
   &:nth-child(even)
     .timeline-content
       float: right
@@ -33,6 +34,20 @@ section
         right: auto
         left: 0
         border-radius: 4px 0 0 0
+        @media screen and (min-width: 768px)
+          &::after
+            content: ''
+            position: absolute
+            border-style: solid
+            width: 0
+            height: 0
+            top: 30px
+            left: -15px
+            border-width: 10px 15px 10px 0
+            border-color: transparent #f5f5f5 transparent transparent
+  @media screen and (min-width: 768px)
+    &:nth-child(odd)
+      .timeline-content
         &::after
           content: ''
           position: absolute
@@ -40,21 +55,9 @@ section
           width: 0
           height: 0
           top: 30px
-          left: -15px
-          border-width: 10px 15px 10px 0
-          border-color: transparent #f5f5f5 transparent transparent
-  &:nth-child(odd)
-    .timeline-content
-      &::after
-        content: ''
-        position: absolute
-        border-style: solid
-        width: 0
-        height: 0
-        top: 30px
-        right: -15px
-        border-width: 10px 0 10px 15px
-        border-color: transparent transparent transparent #f5f5f5
+          right: -15px
+          border-width: 10px 0 10px 15px
+          border-color: transparent transparent transparent #f5f5f5
   &:first-child
     padding-top: 4em
 
@@ -150,19 +153,5 @@ blockquote
       width: auto
       margin-left: 70px
 
-  .timeline-item
-    &:nth-child(even)
   .timeline-content
     float: none
-    &:nth-child(odd)
-      .timeline-content
-        &::after
-          content: ''
-          position: absolute
-          border-style: solid
-          width: 0
-          height: 0
-          top: 30px
-          left: -15px
-          border-width: 10px 15px 10px 0
-          border-color: transparent #f5f5f5 transparent transparent
