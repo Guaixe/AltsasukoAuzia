@@ -1,8 +1,8 @@
 ---
-title: "Bi liskar utzi ditu ferietako liskar batek"
-thumbnail: "https://guaixe.tok-md.com/argazkiak/Pjh/cache/Alts_Gartzia_Ximenez%2BZubeztia_kaleen_bidegurutzea_content.JPG"
+title: "Altsasuar talde batek estrategia militar-mediatikoa salatu du"
+thumbnail: "https://guaixe.tok-md.com/argazkiak/Xzh/cache/pren_content.JPG"
 date: "2016-10-17"
-link: "https://guaixe.eus/altsasu/1476711743876-bi-atxilotu-utzi-ditu-ferietako-liskar-batek"
+link: "https://guaixe.eus/altsasu/1476734341091-altsasuar-talde-batek-estrategia-militar-mediatikoa-salatu-du"
 ---
 
 
