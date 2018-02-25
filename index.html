@@ -3,21 +3,23 @@ layout: default
 ---
 
 <section class="timeline">
+  <div class="container">
 
-  {% for post in site.posts reversed %}
-  <div class="timeline-item">
+    {% for post in site.posts reversed %}
+    <div class="timeline-item">
 
-    <div class="timeline-img"></div>
+      <div class="timeline-img"></div>
 
-    <div class="timeline-content timeline-card js--fadeInRight">
-      <div class="timeline-img-header" style="background-image: url('{{ post.thumbnail }}');">
+      <div class="timeline-content timeline-card js--fadeInRight">
+        <div class="timeline-img-header" style="background-image: url('{{ post.thumbnail }}');">
+        </div>
+        <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
+        <h2>{{ post.title }}</h2>
+        <a class="bnt-more" href="{{ post.link }}" target="_blank">Irakurri
+          {{ post.category }}
+        </a>
       </div>
-      <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
-      <h2>{{ post.title }}</h2>
-      <a class="bnt-more" href="{{ post.link }}" target="_blank">Irakurri
-        {{ post.category }}
-      </a>
     </div>
+    {% endfor %}
   </div>
-  {% endfor %}
 </section>
