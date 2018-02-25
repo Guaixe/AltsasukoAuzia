@@ -14,11 +14,11 @@ layout: default
       </div>
       <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
       <h2>{{ post.title }}</h2>
-      <a class="bnt-more" href="javascript:void(0)">Irakurri</a>
+      <a class="bnt-more" href="{{ post.link }}" target="_blank">Irakurri</a>
     </div>
   </div>
   {% endfor %}
 </section>
 
 
-<script src="/js/timeline.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{ site.baseurl }}/js/timeline.js" type="text/javascript" charset="utf-8"></script>
