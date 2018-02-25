@@ -6,7 +6,7 @@ Installation
 ============
 
 ```
-git clone https://github.com/iunetrecet/iunetrecet.github.io
+git clone https://github.com/Guaixe/AltsasukoAuzia
 bundle
 ```
 
