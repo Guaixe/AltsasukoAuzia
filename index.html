@@ -15,9 +15,7 @@ layout: default
         </div>
         <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
         <h2>{{ post.title }}</h2>
-        <a class="bnt-more" href="{{ post.link }}" target="_blank">Irakurri
-          {{ post.category }}
-        </a>
+        {{ post.content }}
       </div>
     </div>
     {% endfor %}

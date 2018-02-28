@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="91.390518mm"
-   height="27.422211mm"
-   viewBox="0 0 91.390518 27.422211"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg30749"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="guaixe.svg">
+   sodipodi:docname="guaixe.svg"
+   inkscape:export-filename="/home/iune/favicon.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
   <defs
      id="defs30743" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-664.43637"
-     inkscape:cy="-162.46422"
+     inkscape:zoom="3.959798"
+     inkscape:cx="19.505038"
+     inkscape:cy="18.104343"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +39,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1600"
-     inkscape:window-height="773"
+     inkscape:window-height="791"
      inkscape:window-x="0"
-     inkscape:window-y="127"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="109"
+     inkscape:window-maximized="0"
+     units="px" />
   <metadata
      id="metadata30746">
     <rdf:RDF>
@@ -56,10 +60,10 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-60.894027,-78.425798)">
+     transform="translate(-60.894027,-88.91467)">
     <g
        id="g244"
-       transform="matrix(0.26458333,0,0,0.26458333,300.62187,66.985215)">
+       transform="matrix(0.04902344,0,0,0.04902344,105.31211,92.721095)">
       <g
          id="g206">
         <g
