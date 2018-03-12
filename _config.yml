@@ -12,4 +12,4 @@ exclude: [".rvmrc", ".rbenv-version", "Rakefile", "vendor"]
 excerpt_separator: "\n"
 markdown: kramdown
 
-baseurl: 'https://guaixe.github.io/AltsasukoAuzia'
+//baseurl: 'https://guaixe.github.io/AltsasukoAuzia'
