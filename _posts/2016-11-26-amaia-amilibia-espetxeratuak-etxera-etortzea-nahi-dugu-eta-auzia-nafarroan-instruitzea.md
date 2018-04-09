@@ -1,5 +1,5 @@
 ---
-title: "Amaia Amilibia:i Espetxeratuak etxera etortzea nahi dugu eta auzia Nafarroan instruitzea"
+title: "Amaia Amilibia: Espetxeratuak etxera etortzea nahi dugu eta auzia Nafarroan instruitzea"
 thumbnail: "https://guaixe.tok-md.com/argazkiak/Dbb/cache/Amaia%20Amilibia_content.JPG"
 date: "2016-11-26"
 ---
