@@ -1,7 +1,6 @@
 ---
 title: "13 hilabete preso"
-thumbnail:
-"https://guaixe.tok-md.com/argazkiak/zaZ/ab14/cache/P1012303_content.jpg"
+thumbnail: "https://guaixe.tok-md.com/argazkiak/zaZ/ab14/cache/P1012303_content.jpg"
 date: "2017-12-14"
 ---
 [Irakurri](https://guaixe.eus/altsasu/1513070760678-11-hilabete-preso)
