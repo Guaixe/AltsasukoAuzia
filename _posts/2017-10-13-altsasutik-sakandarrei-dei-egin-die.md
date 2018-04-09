@@ -1,6 +1,6 @@
 ---
 title: "Altsasutik sakandarrei dei egin die"
-thumbnail: "https://guaixe.eus/altsasu/1507823058282-altsasutik-sakandarrei-dei-egin-die"
+thumbnail: "https://guaixe.tok-md.com/argazkiak/aIz/cache/Azala-altsasukoak%20aske_content.JPG"
 date: "2017-10-13"
 ---
 [Irakurri](https://guaixe.eus/altsasu/1507823058282-altsasutik-sakandarrei-dei-egin-die)
