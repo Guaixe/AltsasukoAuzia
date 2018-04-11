@@ -1,5 +1,5 @@
 ---
-title: "Altsasuko taberna baten liskarra gertatu da"
+title: "Altsasuko taberna batean liskarra gertatu da"
 thumbnail: "images/bideoa.jpg"
 date: "2016-10-16"
 ---
