@@ -1,7 +1,7 @@
 ---
 title: "#EzDaJustizia manifestazioa"
 thumbnail: "https://guaixe.tok-md.com/argazkiak/DRX/cache/DSC05649_tokikom_735x413.JPG"
-date: "2019-"
+date: "2019-03-24"
 ---
 [Ikusi](https://guaixe.eus/altsasu/1553429030404-ezdajustizia-manifestazioa-altsasuko-kaleetan-barna)
 [Ikusi](https://guaixe.eus/altsasu/1553429846105-ezdajustizia-manifestazioaren-hasierako-pausuak)
