@@ -7,3 +7,4 @@ date: "2019-10-09"
 [Entzun](https://guaixe.eus/altsasu/1570626550629-epaia-kartzelan-urduri-hartu-dute)
 [Entzun](https://guaixe.eus/altsasu/1570645399908-oraindik-ere-neurrigabetasuna-mantentzen-da)
 [Entzun](https://guaixe.eus/altsasu/1570649898519-prozesu-honetan-guztian-esan-dugun-guztiari-arrazoia-eman-digute)
+[Ikusi](https://guaixe.eus/altsasu/1570646694855-altsasukoak-aske-manifestazioa-gorenaren-epaia-jakin-berritan)
