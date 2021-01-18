@@ -4,6 +4,7 @@ description: Altsasuko auziaren denbora-lerroa Guaixen argitaratutako berriei es
 author:
     name: Guaixe
     email: maketazioa@guaixe.eus
+timezone: "Europe/Paris"
 
 
 # Jekyll
