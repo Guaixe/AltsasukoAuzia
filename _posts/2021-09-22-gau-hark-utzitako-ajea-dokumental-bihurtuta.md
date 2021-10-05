@@ -1,5 +1,5 @@
 ---
-title: "Gau hark utzitako "ajea" dokumental bihurtuta"
+title: "Gau hark utzitako &quot;ajea&quot; dokumental bihurtuta"
 thumbnail: "https://guaixe.tok-md.com/argazkiak/VzS/cache/amets_tokikom_735x413.jpg"
 date: "2021-09-22"
 ---
