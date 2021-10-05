@@ -1,5 +1,5 @@
 ---
-title: ""Istorioa beraien bizitzetatik kontatzea falta zen""
+title: "Istorioa beraien bizitzetatik kontatzea falta zen"
 thumbnail: "https://guaixe.tok-md.com/argazkiak/zxq/cache/carnaval_tokikom_735x413.png"
 date: "2021-09-14"
 ---
